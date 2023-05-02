@@ -38,13 +38,17 @@ features relevante de causa para avs (intersecção do linear e da árvore):
 * Sobrepeso
 * Idoso
 
+<<<<<<< HEAD
+Features relevantes para prevenção de AVC (intersecção do linear e da árvore):
+=======
 features relevantes para prevenção de AVC (intersecção do linear e da árvore):
+>>>>>>> 6d77aa3d4a6353260621716de0f53b6c67231e9d
 
 * Nunca fumou
 * Nível de glicose normal
 * Tipo de residência: Rural
 
-### Tabagismo como fator de risco para AVC
+## Correlação da feature "smoking_status" com AVC
 
 Os resultados dos classificadores apresentados indicam que o tabagismo é um importante fator de risco para AVC. Tanto o classificador linear quanto o por árvore de decisão identificaram a variável `smoking_status_smokes` como uma das mais importantes para a predição de AVCs, com pesos de 83 e 183, respectivamente. Além disso, o segundo classificador também identificou a variável `smoking_status_formerly` smoked" como relevante, com peso de 159.
 
