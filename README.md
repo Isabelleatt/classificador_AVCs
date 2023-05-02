@@ -30,7 +30,11 @@ features relevante de causa para avs (intersecção do linear e da árvore):
 * Sobrepeso
 * Idoso
 
+<<<<<<< HEAD
 Features relevantes para prevenção de AVC (intersecção do linear e da árvore):
+=======
+features relevantes para prevenção de AVC (intersecção do linear e da árvore):
+>>>>>>> 6d77aa3d4a6353260621716de0f53b6c67231e9d
 
 * Nunca fumou
 * Nível de glicose normal
@@ -47,4 +51,4 @@ O artigo "Abordagem do tabagismo: estratégia para redução de fator de risco m
 
 ## Conclusões 
 
-A partir da análise dos dados, foi possível descobrir que o Acidênte Vascular Cerebral (AVC) é uma doença que pode ser causada por diversos fatores, por exemplo, o sobrepeso, a hipertensão, e a idade avançada. Além disso, foi possível observar que o hábito de fumar pode ser uma das causas do AVC, já que o fato de ser fumante apareceu como uma característica relevante de causa. E, em contraste, o fato de nunca ter fumando apareceu como uma característica de prevenção ao AVC. Outras exemplos de características de prevenção que apareceram foram: nível de glicose normal, e morar em um ambiente rural.
+A partir da análise dos dados, foi possível descobrir que o Acidênte Vascular Cerebral (AVC) é uma doença que pode ser causada por diversos fatores, por exemplo, o sobrepeso, a hipertensão, e a idade avançada. Além disso, foi possível observar que o hábito de fumar pode ser uma das causas do AVC, já que o fato de ser fumante apareceu como uma característica relevante de causa. Em contraste, o fato de nunca ter fumando apareceu como uma característica de prevenção ao AVC. Outras exemplos de características de prevenção que apareceram foram: nível de glicose normal, e morar em um ambiente rural.
