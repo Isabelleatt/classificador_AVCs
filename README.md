@@ -26,19 +26,17 @@ features relevante de causa para avs (intersecção do linear e da árvore):
 * Sobrepeso
 * Idoso
 
-http://www.ojs.unirg.edu.br/index.php/2/article/view/472
-https://oswaldocruz.br/revista_academica/content/pdf/Edicao_06_Stephane_sfalsini.pdf
-
-INFLUÊNCIA DO TABAGISMO E DA GLICEMIA NO TRATAMENTO
-DO AVC EM PACIENTES INTERNADOS
-
 features relevantes para prevenção de AVC (intersecção do linear e da árvore):
 
 * Nunca fumou
 * Nível de glicose normal
 * Tipo de residência: Rural
 
+## Comparação dos resultados com referência bibliográfica
+
+O artigo [INFLUÊNCIA DO TABAGISMO E DA GLICEMIA NO TRATAMENTO
+DO AVC EM PACIENTES INTERNADOS](https://oswaldocruz.br/revista_academica/content/pdf/Edicao_06_Stephane_sfalsini.pdf) corrobora com os resultados descritos acima em relação a influência do tabagismo no risco de AVC. No artigo, é explorada e comprovada tal influência através de dados numéricos. Uma das afirmações de relação desenvolvida na referência diz que o tabagismo é um dos principais fatores de risco modificável, além de que o abandano do tabaco pode reduzir o risco de AVC em dois a cinco anos.
 
 ## Conclusões 
 
-A partir da análise dos dados, foi possível descobrir que o Acidênte Vascular Cerebral (AVC) é uma doença que pode ser causada por diversos fatores, por exemplo, o sobrepeso, a hipertensão, e a idade avançada. Além disso, foi possível observar que o hábito de fumar pode ser uma das causas do AVC, já que o fato de ser fumante apareceu como uma característica relevante de causa. E, em contraste, o fato de nunca ter fumando apareceu como uma característica de prevenção ao AVC. Outras exemplos de características de prevenção que apareceram foram: nível de glicose normal, e morar em um ambiente rural.
+A partir da análise dos dados, foi possível descobrir que o Acidênte Vascular Cerebral (AVC) é uma doença que pode ser causada por diversos fatores, por exemplo, o sobrepeso, a hipertensão, e a idade avançada. Além disso, foi possível observar que o hábito de fumar pode ser uma das causas do AVC, já que o fato de ser fumante apareceu como uma característica relevante de causa. Em contraste, o fato de nunca ter fumando apareceu como uma característica de prevenção ao AVC. Outras exemplos de características de prevenção que apareceram foram: nível de glicose normal, e morar em um ambiente rural.
