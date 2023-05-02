@@ -11,6 +11,14 @@ APS 6 - Álgebra Linear e Teoria da Informação - 2023.1
 O "Classificador AVCs" é uma APS (Atividade Prática Supervisionada) desenvolvido para a disciplina de Álgebra Linear e Teoria da Informação, ministrada pelo professor Tiago Fernandes Tavares.
 Este projeto tem como objetivo a criação e avaliação de dois tipos de classificadores, linear e por árvore de decisão, para a predição de AVCs com base em uma base de dados disponível no [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset). Será utilizada a medida de acurácia para avaliar o desempenho dos classificadores, considerando uma hipótese nula de que a acurácia deve ser comparada com um classificador que sempre "chuta" a classe mais frequente no conjunto de dados. Além disso, serão analisados os fatores de risco para AVCs identificados pelos classificadores e verificado se esses fatores já foram identificados em estudos publicados anteriormente. 
 
+## Arquivos
+
+[demo.ipynb](demo.ipynb) -> Aplicação de ambos os classificadores com o foco no peso dado para cada uma das características.
+
+[demo_100.ipynb](demo_100.ipynb) -> Versão mais detalhada do processo de classificação com foco na ordem de influência dada pelos classificadores em 100 iterações de cada classificador.
+
+
+
 ## Metodologia - Explicação
 
 ####  Classificação Linear
