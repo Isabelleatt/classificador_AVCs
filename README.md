@@ -1,12 +1,11 @@
 # classificador_AVCs
 
-APS 6 - Álgebra Linear e Teoria da Informação - 2021.1
+APS 6 - Álgebra Linear e Teoria da Informação - 2023.1
 
 ## Integrantes do grupo
 * [Isabelle da Silva Santos](https://github.com/isabelleatt)
 * [Livia Tanaka](https://github.com/liviatanaka)
 
-* No `README.md` do repositório, deve haver um resumo, com até 400 palavras, explicando qual foi a metodologia usada, quais foram os principais resultados encontrados, e o que o grupo descobriu sobre AVCs à partir da análise dos dados.
 
 ## Metodologia - Explicação
 
@@ -16,15 +15,15 @@ No nosso código, a função de perda utilizada é o erro quadrático médio, qu
 
 ####  Árvore de Decisão
 
-Máxima entropia. 
+A árvore de decisão é construída levando em consideração a entropia de cada característica para determinar se o paciente teve ou não um AVC. Desse modo, a árvore pontua cada uma das características com valor proporcional a relevância da característica tanto como causa, quanto como prevenção.
 
 ## Resultados 
 
 features relevante de causa para avs (intersecção do linear e da árvore):
 
 * Hipertensão
-* Ex fumante 
-* Obesidade 
+* Fumante 
+* Sobrepeso
 * Idoso
 
 http://www.ojs.unirg.edu.br/index.php/2/article/view/472
@@ -35,11 +34,11 @@ DO AVC EM PACIENTES INTERNADOS
 
 features relevantes para prevenção de AVC (intersecção do linear e da árvore):
 
-* Residência urbana
-* Gênero masculino
-* Adultos maduros (Entre 40 e 60 anos)
+* Nunca fumou
+* Nível de glicose normal
+* Tipo de residência: Rural
 
 
 ## Conclusões 
 
-A partir da análise dos dados, foi possível descobrir que o Acidênte Vascular Cerebral (AVC) é uma doença que pode ser causada por diversos fatores, como por exemplo, o tabagismo, o consumo de álcool, a hipertensão, a diabetes, entre outros. Além disso, foi possível observar que a maioria dos pacientes que sofreram AVCs são do sexo masculino, e que a maioria dos pacientes que não sofreram AVCs são do sexo feminino.
+A partir da análise dos dados, foi possível descobrir que o Acidênte Vascular Cerebral (AVC) é uma doença que pode ser causada por diversos fatores, por exemplo, o sobrepeso, a hipertensão, e a idade avançada. Além disso, foi possível observar que o hábito de fumar pode ser uma das causas do AVC, já que o fato de ser fumante apareceu como uma característica relevante de causa. E, em contraste, o fato de nunca ter fumando apareceu como uma característica de prevenção ao AVC. Outras exemplos de características de prevenção que apareceram foram: nível de glicose normal, e morar em um ambiente rural.
