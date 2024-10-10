@@ -31,18 +31,16 @@ A árvore de decisão é construída levando em consideração a entropia de cad
 
 ## Resultados 
 
-features relevante de causa para avs (intersecção do linear e da árvore):
+Features relevante de causa para avs (intersecção do linear e da árvore):
 
 * Hipertensão
 * Fumante 
 * Sobrepeso
 * Idoso
 
-<<<<<<< HEAD
+
 Features relevantes para prevenção de AVC (intersecção do linear e da árvore):
-=======
-features relevantes para prevenção de AVC (intersecção do linear e da árvore):
->>>>>>> 6d77aa3d4a6353260621716de0f53b6c67231e9d
+
 
 * Nunca fumou
 * Nível de glicose normal
